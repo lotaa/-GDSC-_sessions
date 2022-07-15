@@ -1,1 +1,1 @@
-# -GDSC-_sessions
+# GDSC Sessions
